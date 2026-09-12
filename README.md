@@ -91,6 +91,10 @@ The prognostics/RUL *methodology* is inspired by NASA's C-MAPSS turbofan degrada
 pip install streamlit numpy pandas scipy scikit-learn plotly
 streamlit run aero_piston_digital_twin.py
 ```
+### Screenshots
+![alt text](digitaltwin.jpeg)
+![alt text](dshboard.jpeg)
+![alt text](logs.jpeg)
 ## Contributors
 - [Manvith U](https://github.com/manwithu) 
 - [Aneesh Sagar Naidu](https://github.com/Aneesh450) 
